@@ -1,0 +1,7 @@
+Modelo,TN,FP,FN,TP,Accuracy,Precision,Recall,F1-score,Lotes mal clasificados
+Regresión Logística,9,0,0,11,1.0,1.0,1.0,1.0,[]
+Árbol de Decisión,9,0,0,11,1.0,1.0,1.0,1.0,[]
+Random Forest,9,0,0,11,1.0,1.0,1.0,1.0,[]
+KNN,9,0,0,11,1.0,1.0,1.0,1.0,[]
+SVM,9,0,0,11,1.0,1.0,1.0,1.0,[]
+Naive Bayes,9,0,0,11,1.0,1.0,1.0,1.0,[]
